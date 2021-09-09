@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/*
+ Theme Name: SANGO Child
+ Theme URI: https://saruwakakun.design
+ Author: SARUWAKA
+ Author URI: https://saruwakakun.com
+ Template: sango-theme
+ Version: 3.0
+*/
+/*こちらはSANGOの子テーマ用CSSです。以下にCSSを記入していきましょう。*/
+
+.cardtype__article {
+    width: 29%;
+    margin: 0px 4% 13px 0;
+    height: 10%;
+}
+
+.cardtype h2 {
+    margin: 8px 13px 0;
+    font-size: 15px;
+}
+
+.catpost-cards .c_linkto {
+    width: 31%;
+    margin: 1em 0;
+    max-width: none;
+}
+
+.header-image__headline dfont{
+box-shadow: 1px 1px rgb(213, 123, 29);
+}
